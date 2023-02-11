@@ -1,2 +1,36 @@
 # Automated-Object-Detection
-Automated Object Detection using Decision Trees &amp; Random Forests
+Producer Consumer (Bounded Buffer) With JAVA Multithreading (JAVA Swing)
+
+----
+### Table of Contents
+You're sections headers will be used to reference location of destination.
+
+- [Features](#Features)
+- [Tools](#Tools)
+
+---
+
+## Features
+
+Develop and application for musical instruments: 
+
+- The program Select 5 to 10 different objects and train a Random Forest to detect them.
+
+---
+
+---
+-control ALL consumer:-
+---
+![](https://github.com/Joseph-Essa/Automated-Object-Detection/blob/main/Gif/ezgif.com-video-to-gif.gif)
+
+
+---
+### Tools
+----
+- Python
+----
+
+
+----
+
+
