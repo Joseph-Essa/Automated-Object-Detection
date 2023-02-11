@@ -19,7 +19,7 @@ Develop and application for musical instruments:
 ---
 
 ---
--control ALL consumer:-
+-detect 5 to 10 different objects:-
 ---
 ![](https://github.com/Joseph-Essa/Automated-Object-Detection/blob/main/Gif/ezgif.com-video-to-gif.gif)
 
@@ -28,9 +28,5 @@ Develop and application for musical instruments:
 ### Tools
 ----
 - Python
-----
-
-
-----
 
 
