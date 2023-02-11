@@ -12,7 +12,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Features
 
-Develop and application for musical instruments: 
+Develop and application for Detect Objects: 
 
 - The program Select 5 to 10 different objects and train a Random Forest to detect them.
 
