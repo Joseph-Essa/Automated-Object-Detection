@@ -29,4 +29,6 @@ Develop and application for Detect Objects:
 ----
 - Python
 
+---
+### Note : Data set -> https://drive.google.com/drive/folders/1HWIXhM52wUuMXyTvHjRvY_9n1JH57wmS?usp=sharing
 
