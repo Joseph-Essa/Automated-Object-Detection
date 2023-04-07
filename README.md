@@ -1,4 +1,5 @@
 # Automated-Object-Detection
+
 Producer Consumer (Bounded Buffer) With JAVA Multithreading (JAVA Swing)
 
 ----
@@ -16,7 +17,6 @@ Develop and application for Detect Objects:
 
 - The program Select 5 to 10 different objects and train a Random Forest to detect them.
 
----
 
 ---
 -detect 5 to 10 different objects:-
@@ -30,5 +30,6 @@ Develop and application for Detect Objects:
 - Python
 
 ---
-### Note : Data set -> https://drive.google.com/drive/folders/1HWIXhM52wUuMXyTvHjRvY_9n1JH57wmS?usp=sharing
+### Note:
+-Data set -> https://drive.google.com/drive/folders/1HWIXhM52wUuMXyTvHjRvY_9n1JH57wmS?usp=sharing
 
